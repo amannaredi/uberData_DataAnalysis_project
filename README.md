@@ -3,9 +3,9 @@
 This project focuses on analyzing Uber ride data to gain insights into pickup trends, rush hours, and active vehicles in New York City. The analysis involves data preprocessing, visualization, and deriving meaningful insights.
 
 ## Contents
-Data Analysis Scripts: Python scripts for data preprocessing, visualization, and analysis.
-Datasets: Contains Uber ride datasets used for analysis.
-README.md: This file, providing an overview of the project.
+1. Data Analysis Scripts: Python scripts for data preprocessing, visualization, and analysis. 
+2. Datasets: Contains Uber ride datasets used for analysis.
+3. README.md: This file, providing an overview of the project.
 
 ## Analysis Steps
 Data Preprocessing: Clean the data by handling missing values, duplicates, and converting data types.
